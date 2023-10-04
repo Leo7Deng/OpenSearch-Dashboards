@@ -16,7 +16,7 @@
 <!--
   Please provide detailed steps for validating your changes. This could involve specific commands to run,
   pages to visit, scenarios to try or any other information that would help reviewers verify
-  the functionality of your change
+  the functionality of your change.
 -->
 
 ### Check List
